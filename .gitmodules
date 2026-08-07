@@ -1,0 +1,9 @@
+[submodule "Polychrome"]
+	path = Polychrome
+	url = https://github.com/MoonSquaredd/Polychrome
+[submodule "GuiltyDoom"]
+	path = GuiltyDoom
+	url = https://github.com/MoonSquaredd/GuiltyDoom
+[submodule "GearLocalizer"]
+	path = GearLocalizer
+	url = https://github.com/MoonSquaredd/Gear-Localizer

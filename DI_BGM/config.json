@@ -1,0 +1,13 @@
+{
+    "name": "DI BGM",
+    "version": "3.0.0",
+    "modLoaderVersion": "0.1.0",
+    "ignore": false,
+    "dependencies": [
+        {
+            "name": "baseMod",
+            "version": "1.0.0",
+            "optional": false
+        }
+    ]
+}
